@@ -1,0 +1,12 @@
+train: train/images
+val: valid/images
+test: test/images
+
+nc: 5
+
+names:
+  0: crack
+  1: corrosion
+  2: leakage
+  3: dust
+  4: spalling

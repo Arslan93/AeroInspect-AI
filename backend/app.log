@@ -1,0 +1,36 @@
+2026-05-03 13:17:37,485 - INFO - Loading model: nano
+2026-05-03 13:17:37,670 - INFO - Upload started - model: nano
+2026-05-03 13:17:41,386 - INFO - Defects: ['3 possible cracks detected']
+2026-05-03 13:17:41,386 - INFO - Severity: HIGH
+2026-05-03 13:18:18,934 - INFO - Loading model: small
+2026-05-03 13:18:21,912 - INFO - Upload started - model: small
+2026-05-03 13:18:23,284 - INFO - Defects: ['3 possible cracks detected']
+2026-05-03 13:18:23,284 - INFO - Severity: HIGH
+2026-05-03 13:37:18,618 - INFO - Loading model: nano
+2026-05-03 13:37:18,795 - INFO - Upload started - model: nano
+2026-05-03 13:37:21,409 - INFO - Upload started - model: nano
+2026-05-03 13:37:21,643 - INFO - Upload started - model: nano
+2026-05-03 13:37:21,888 - INFO - Upload started - model: nano
+2026-05-03 13:37:22,250 - INFO - Upload started - model: nano
+2026-05-03 14:27:28,134 - INFO - Loading model: nano
+2026-05-03 14:27:28,347 - INFO - Upload started - model: nano
+2026-05-03 14:28:04,822 - INFO - Loading model: small
+2026-05-03 14:28:05,000 - INFO - Upload started - model: small
+2026-05-04 01:20:50,045 - INFO - Loading model: nano
+2026-05-04 01:20:52,732 - INFO - Upload started - model: nano
+2026-05-04 16:08:21,383 - INFO - Loading model: small
+2026-05-04 16:08:21,778 - INFO - Upload started - model: small
+2026-05-04 16:11:35,679 - INFO - Loading model: nano
+2026-05-04 16:11:35,830 - INFO - Upload started - model: nano
+2026-05-04 17:04:06,524 - INFO - Loading model: nano
+2026-05-04 17:04:06,614 - INFO - Upload started - model: nano
+2026-05-04 17:56:21,207 - INFO - Loading model: nano
+2026-05-04 17:56:21,434 - INFO - Upload started - model: nano
+2026-05-04 18:01:02,654 - INFO - Upload started - model: nano
+2026-05-04 18:09:30,478 - INFO - Loading model: nano
+2026-05-04 18:17:53,279 - INFO - Loading model: custom
+2026-05-04 18:17:54,874 - ERROR - [Errno 2] No such file or directory: 'runs\\detect\\train5\\weights\\best.pt'
+2026-05-04 18:19:01,450 - INFO - Loading model: nano
+2026-05-04 18:36:59,327 - ERROR - 'nano'
+2026-05-04 18:37:12,102 - ERROR - 'custom'
+2026-05-04 18:39:11,990 - ERROR - 'custom'

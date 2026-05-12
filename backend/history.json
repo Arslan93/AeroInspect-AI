@@ -1,0 +1,723 @@
+[
+    {
+        "image": "http://127.0.0.1:8000/files/output_Screenshot 2026-04-29 121646.png",
+        "defects": [
+            "3 possible cracks detected"
+        ],
+        "alerts": [
+            "Crack detected \u2014 structural inspection required"
+        ],
+        "severity": "HIGH",
+        "time": "2026-05-03 11:41:26"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_Screenshot 2026-04-29 121646.png",
+        "defects": [
+            "3 possible cracks detected"
+        ],
+        "alerts": [
+            "Crack detected \u2014 structural inspection required"
+        ],
+        "severity": "HIGH",
+        "time": "2026-05-03 11:52:08"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-43-_jpg.rf.ef25c39e914d205a869eedfa0a8183b4.jpg",
+        "defects": [
+            "No structural defects detected"
+        ],
+        "alerts": [
+            "No issues detected"
+        ],
+        "severity": "LOW",
+        "time": "2026-05-03 12:11:42"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-46-_jpg.rf.9cb664c7a982e509177b343a8efb55cf.jpg",
+        "defects": [
+            "1 possible cracks detected"
+        ],
+        "alerts": [
+            "Crack detected \u2014 structural inspection required"
+        ],
+        "severity": "HIGH",
+        "time": "2026-05-03 12:11:43"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-47-_jpg.rf.a8316666e9d079404b253ac8ea35d3e4.jpg",
+        "defects": [
+            "2 possible cracks detected"
+        ],
+        "alerts": [
+            "Crack detected \u2014 structural inspection required"
+        ],
+        "severity": "HIGH",
+        "time": "2026-05-03 12:11:43"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-53-_jpg.rf.c7b3632991057510316bf853ad2f4da5.jpg",
+        "defects": [
+            "1 possible cracks detected"
+        ],
+        "alerts": [
+            "Crack detected \u2014 structural inspection required"
+        ],
+        "severity": "HIGH",
+        "time": "2026-05-03 12:11:43"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_Screenshot 2026-04-29 121646.png",
+        "defects": [
+            "3 possible cracks detected"
+        ],
+        "alerts": [
+            "Crack detected \u2014 structural inspection required"
+        ],
+        "severity": "HIGH",
+        "time": "2026-05-03 12:29:21"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_Screenshot 2026-04-29 121646.png",
+        "defects": [
+            "3 possible cracks detected"
+        ],
+        "alerts": [
+            "Crack detected \u2014 inspection required"
+        ],
+        "severity": "HIGH",
+        "time": "2026-05-03 13:17:45",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_Screenshot 2026-04-29 121646.png",
+        "defects": [
+            "3 possible cracks detected"
+        ],
+        "alerts": [
+            "Crack detected \u2014 inspection required"
+        ],
+        "severity": "HIGH",
+        "time": "2026-05-03 13:18:26",
+        "model": "small"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-28-_jpg.rf.a6bda866f388533cb1f80911bd5ace6b.jpg",
+        "defects": [
+            "4 possible cracks detected"
+        ],
+        "alerts": [
+            "Crack detected \u2014 inspection required"
+        ],
+        "severity": "HIGH",
+        "time": "2026-05-03 13:37:21",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-30-_jpg.rf.d7e93a500f9c9926e032c942d097f411.jpg",
+        "defects": [
+            "2 possible cracks detected"
+        ],
+        "alerts": [
+            "Crack detected \u2014 inspection required"
+        ],
+        "severity": "HIGH",
+        "time": "2026-05-03 13:37:21",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-35-_jpg.rf.efeb6d00b1654d0a143e8ae7624d3a7c.jpg",
+        "defects": [
+            "3 possible cracks detected"
+        ],
+        "alerts": [
+            "Crack detected \u2014 inspection required"
+        ],
+        "severity": "HIGH",
+        "time": "2026-05-03 13:37:21",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-36-_jpg.rf.d1ab583577e20b282fcbf72967077298.jpg",
+        "defects": [
+            "1 possible cracks detected"
+        ],
+        "alerts": [
+            "Crack detected \u2014 inspection required"
+        ],
+        "severity": "HIGH",
+        "time": "2026-05-03 13:37:22",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-48-_jpg.rf.6dd20053f13473d6a0393724d8809c61.jpg",
+        "defects": [
+            "1 possible cracks detected"
+        ],
+        "alerts": [
+            "Crack detected \u2014 inspection required"
+        ],
+        "severity": "HIGH",
+        "time": "2026-05-03 13:37:22",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-111-_jpg.rf.eb4ca08b3b29c0094b0f7d9c884babdb.jpg",
+        "defects": [
+            "No structural defects detected"
+        ],
+        "alerts": [
+            "No issues detected"
+        ],
+        "severity": "LOW",
+        "time": "2026-05-03 14:27:32",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-141-_jpg.rf.bf4a4a01b64ffbf2978479cf58aedb10.jpg",
+        "defects": [
+            "2 possible cracks detected"
+        ],
+        "alerts": [
+            "Crack detected \u2014 inspection required"
+        ],
+        "severity": "HIGH",
+        "time": "2026-05-03 14:28:05",
+        "model": "small"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-37-_jpg.rf.bffb8670208fd3ccf0b8d7f18c0e190a.jpg",
+        "defects": [
+            "No structural defects detected"
+        ],
+        "alerts": [],
+        "severity": "LOW",
+        "time": "2026-05-04 01:21:03",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-175-_jpg.rf.e86db3e1888863e951e248136ff099f3.jpg",
+        "defects": [
+            "1 possible cracks detected"
+        ],
+        "alerts": [
+            "Crack detected \u2014 inspection required"
+        ],
+        "severity": "HIGH",
+        "time": "2026-05-04 16:08:29",
+        "model": "small"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-133-_jpg.rf.c09cf2f8bf65535a847caa264166153c.jpg",
+        "defects": [
+            "No structural defects detected"
+        ],
+        "alerts": [
+            "No issues detected"
+        ],
+        "severity": "LOW",
+        "time": "2026-05-04 16:11:37",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-146-_jpg.rf.c177a26958a53d228aecdbd79ee0eea6.jpg",
+        "defects": [
+            "2 possible cracks detected"
+        ],
+        "alerts": [
+            "Crack detected \u2014 inspection required"
+        ],
+        "severity": "HIGH",
+        "time": "2026-05-04 17:04:11",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-3-_jpg.rf.18946519ef58ad8c20efcaaedcd8d7ec.jpg",
+        "defects": [
+            "3 possible cracks detected"
+        ],
+        "alerts": [
+            "Crack detected \u2014 inspection required"
+        ],
+        "severity": "HIGH",
+        "time": "2026-05-04 17:56:29",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-38-_jpg.rf.6ef96cc238b2f99d319a5d23baeb31cc.jpg",
+        "defects": [
+            "No structural defects detected"
+        ],
+        "alerts": [],
+        "severity": "LOW",
+        "time": "2026-05-04 18:01:03",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-3-_jpg.rf.18946519ef58ad8c20efcaaedcd8d7ec.jpg",
+        "defects": [
+            "3 cracks detected"
+        ],
+        "alerts": [
+            "Structural crack detected"
+        ],
+        "severity": "HIGH",
+        "time": "2026-05-04 18:09:34",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_000004_jpg.rf.3f70a37b81a1422ad9d22db01fa53d55.jpg",
+        "defects": [
+            "1 cracks detected"
+        ],
+        "alerts": [
+            "Structural crack detected"
+        ],
+        "severity": "HIGH",
+        "time": "2026-05-04 18:19:04",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-141-_jpg.rf.bf4a4a01b64ffbf2978479cf58aedb10.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-04 21:06:56",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-595-_jpg.rf.e8a3ee85b7ffa5174d5313c13a05629b.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-04 21:14:28",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_000073_jpg.rf.2e5b96304f5bd39528802b8922a58e7a.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-04 21:23:15",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_000154_jpg.rf.92283d806b88da682d819f9009de43c3.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-04 21:24:48",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_000411_jpg.rf.ba6a7004ae8583a2585562eca887717d.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-04 21:32:17",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_000338_jpg.rf.5241c9c7eef4c740c4c131a91c99f987.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-05 00:03:04",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_concrete_crack_jpeg.rf.db287aafe21794dd77672968695d2a10.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-05 00:17:43",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_foundation-cracks01_0_jpg.rf.3549890246508b9c8273f78ba3400428.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-05 00:20:22",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_rusted_objects_31_jpg.rf.7d1948f5c2100da942573df0e640ab97.jpg",
+        "severity": "LOW",
+        "time": "2026-05-05 00:22:19",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_rusted_car_2_jpg.rf.d292e8ec4b69a30c2546d0a061a5fd51.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-05 00:22:51",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_output_381_jpg.rf.cb2c55a3d8370b55a446f13977bb5ef5.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-05 00:23:32",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_000073_jpg.rf.2e5b96304f5bd39528802b8922a58e7a.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-05 00:36:05",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_000073_jpg.rf.2e5b96304f5bd39528802b8922a58e7a.jpg",
+        "severity": "LOW",
+        "time": "2026-05-05 00:37:35",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_000073_jpg.rf.2e5b96304f5bd39528802b8922a58e7a.jpg",
+        "severity": "LOW",
+        "time": "2026-05-05 00:37:52",
+        "model": "small"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-547-_jpg.rf.a28e6e93fbd7b2ba32f0068d86f9c572.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-05 21:31:14",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-303-_jpg.rf.8f0b8253391f5cb4ab770b0f7b576843.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-05 21:32:16",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-321-_jpg.rf.8edfc3852a6383223a36768d7d3effcc.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-05 21:32:18",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-348-_jpg.rf.6e28c2ca543bd8159d754991c81b63bd.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-05 21:32:20",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_rusted_car_2_jpg.rf.d292e8ec4b69a30c2546d0a061a5fd51.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-05 22:12:49",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_rusted_car_34_jpg.rf.24644a5727fc884b2e2840464b4c8b67.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-05 22:13:28",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_rusted_car_34_jpg.rf.24644a5727fc884b2e2840464b4c8b67.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-05 22:15:04",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_000043_jpg.rf.9dea92a78cfff64dcdf4162de7226b79.jpg",
+        "severity": "LOW",
+        "time": "2026-05-05 22:34:46",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_000163_jpg.rf.258c8f6cb5cbe3ba675789b6a5603660.jpg",
+        "severity": "LOW",
+        "time": "2026-05-05 22:38:40",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_000406_jpg.rf.db107d7c71f9a9de51ba479ceb75c567.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-05 22:41:36",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_000389_jpg.rf.f057876210d099826587b7b91b6b8fcd.jpg",
+        "severity": "LOW",
+        "time": "2026-05-05 22:56:08",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_000406_jpg.rf.db107d7c71f9a9de51ba479ceb75c567.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-05 22:56:12",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_000411_jpg.rf.ba6a7004ae8583a2585562eca887717d.jpg",
+        "severity": "LOW",
+        "time": "2026-05-05 22:56:15",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-581-_jpg.rf.d98b45ac0588b67b6d22dc8250033a1d.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-07 10:14:24",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-520-_jpg.rf.ab277d84e0c98693453e2c41ef579300.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-08 21:54:44",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-531-_jpg.rf.79e57b5c6e79e3f951ec7b05edcdf913.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-08 21:54:46",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-547-_jpg.rf.a28e6e93fbd7b2ba32f0068d86f9c572.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-08 21:54:47",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_rusty_pipes_98_jpg.rf.a70ffdabef9817f71fb9934bb926854f.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-09 12:09:50",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_rusty_pipes_105_jpg.rf.84d8f6ca75a27dbeb28df391a64cccaa.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-09 12:09:52",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_rusty_pipes_109_jpg.rf.7f9e56d646e797b6e76b8c1174797ea3.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-09 12:09:54",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_rusty_pipes_105_jpg.rf.84d8f6ca75a27dbeb28df391a64cccaa.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-09 19:51:02",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-55-_jpg.rf.ab39e4212a3436e6fcc0b4cd72572001.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-09 19:51:24",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-52-_jpg.rf.212e12c37201c65dc6c47a3a7e019d3c.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-09 20:01:46",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-71-_jpg.rf.a9993fd8d359897fe2db4531d318b376.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-09 20:03:28",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-286-_jpg.rf.1baf8babc0707c611d978c1ed5e10f25.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-09 20:12:52",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-3-_jpg.rf.18946519ef58ad8c20efcaaedcd8d7ec.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-09 20:13:15",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-286-_jpg.rf.1baf8babc0707c611d978c1ed5e10f25.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-09 20:13:24",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_corrosion_39_jpg.rf.d6bb0a82b7a6155d58bb65e799de5ee9.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-09 20:13:45",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_rusted_car_19_jpg.rf.d3097eeb36bf5b812ad73ac6c338be1e.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-09 20:22:31",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_rusty_pipes_105_jpg.rf.84d8f6ca75a27dbeb28df391a64cccaa.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-11 11:12:04",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_rusted_objects_8_jpg.rf.2149652a33674cdd0b9f47f8b41552e0.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-11 15:05:40",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-348-_jpg.rf.6e28c2ca543bd8159d754991c81b63bd.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-11 18:19:27",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-451-_jpg.rf.fe5e1a37e4f3f1968ed71c81ff29673d.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-11 18:28:37",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-196-_jpg.rf.77f5831d42d8cd10f4bce3d263893f2b.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-11 19:51:38",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-354-_jpg.rf.8abba1f4db0824c5fabc82e8c4355fe8.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-11 19:53:20",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-482-_jpg.rf.23dff19075e1d28293a97866b37be791.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-11 19:53:55",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-520-_jpg.rf.ab277d84e0c98693453e2c41ef579300.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-11 19:53:58",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-531-_jpg.rf.79e57b5c6e79e3f951ec7b05edcdf913.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-11 19:54:00",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-633-_jpg.rf.960a77ca928a4638ef0d9dc3e4ab91a9.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-12 11:44:20",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-196-_jpg.rf.77f5831d42d8cd10f4bce3d263893f2b.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-12 12:02:47",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-245-_jpg.rf.dc967a69da4370e74b62b07c27ddc9a1.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-12 12:04:53",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-451-_jpg.rf.fe5e1a37e4f3f1968ed71c81ff29673d.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-12 12:25:44",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-551-_jpg.rf.109612ed6b12013a45c945c8e2983b5e.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-12 12:57:44",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-222-_jpg.rf.47890740227d083fda517216fbdbec60.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-12 13:04:56",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-472-_jpg.rf.0cf9b7f144258dc86b737a8f817b1bc3.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-12 13:17:29",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-520-_jpg.rf.ab277d84e0c98693453e2c41ef579300.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-12 13:22:08",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-170-_jpg.rf.501bb7be456b9a7a9f6a2a91cc24f16b.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-12 13:27:00",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-224-_jpg.rf.830165b4bdf8d3b28483ed9ef8787ff3.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-12 13:33:31",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-45-_jpg.rf.5b1841d7657d542afa089cdaf77008ae.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-12 13:50:30",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-547-_jpg.rf.a28e6e93fbd7b2ba32f0068d86f9c572.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-12 13:55:12",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-132-_jpg.rf.51deec71931b9582fe982d041f5f45e1.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-12 13:56:24",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-113-_jpg.rf.488cacc48d48994083f3f60bd84b1088.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-12 14:16:59",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-609-_jpg.rf.617da9d7a40e3230a51cb7272e088c1c.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-12 14:24:55",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_000152_jpg.rf.b0d70a255a601be75544d2e514844440.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-12 14:25:43",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_000154_jpg.rf.92283d806b88da682d819f9009de43c3.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-12 14:25:46",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_000154_jpg.rf.a7c46831efc3ddcd427d17ce95429899.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-12 14:25:48",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_000160_jpg.rf.721044b9cec678f2ef1165f0f7a3d450.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-12 14:25:50",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_000216_jpg.rf.e7f48af2c9099dddff18ada8912470a0.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-12 18:18:39",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_000220_jpg.rf.13a534a911ba7d5ab1cb8700444eeeb4.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-12 18:18:42",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_000220_jpg.rf.5540089fd501cdf833ebbd935f547372.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-12 18:18:45",
+        "model": "custom"
+    }
+]
