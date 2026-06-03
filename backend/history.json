@@ -719,5 +719,569 @@
         "severity": "MEDIUM",
         "time": "2026-05-12 18:18:45",
         "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_000031_jpg.rf.0807bda94c0a559cb37f126582d5fd0d.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-12 23:40:45",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_inspection.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 22:02:37",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_inspection.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 22:02:39",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_inspection.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 22:02:40",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_inspection.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 22:02:41",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_inspection.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 22:03:04",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_000406_jpg.rf.db107d7c71f9a9de51ba479ceb75c567.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 22:03:22",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_inspection.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 22:03:47",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_inspection.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 22:07:33",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_inspection.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 22:07:34",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_inspection.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 22:07:35",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_inspection.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 22:07:37",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_inspection.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 22:07:38",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_inspection.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 22:08:06",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_inspection.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 22:16:53",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_inspection.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 22:16:54",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_inspection.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 22:17:44",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_inspection.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 22:17:45",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_inspection.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 22:28:50",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_inspection.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 22:31:14",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_inspection.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 22:40:25",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_inspection.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 22:40:27",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_inspection.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 22:40:29",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_inspection.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 22:40:30",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_inspection.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 22:40:32",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_inspection.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 22:41:29",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_inspection.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 22:41:48",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_000017_jpg.rf.ddce212061832334631c9de75c6177be.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 22:42:11",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_camera_capture.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 23:05:51",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_camera_capture.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 23:05:52",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_camera_capture.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 23:06:16",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_000031_jpg.rf.0807bda94c0a559cb37f126582d5fd0d.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 23:06:36",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_camera_capture.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 23:07:04",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_camera_capture.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 23:53:08",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_camera_capture.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 23:53:10",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_camera_capture.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 23:53:12",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_camera_capture.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 23:53:14",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_camera_capture.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 23:53:51",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_camera_capture.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-13 23:53:54",
+        "model": "nano"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_camera_capture.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-14 00:00:01",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_camera_capture.jpg",
+        "severity": "LOW",
+        "time": "2026-05-14 01:08:40",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_000258_jpg.rf.719591004551b105bad5555cf5be3ba7.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-14 16:50:31",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_000258_jpg.rf.719591004551b105bad5555cf5be3ba7.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 10:28:03",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_camera_capture.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 10:28:56",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_000043_jpg.rf.9dea92a78cfff64dcdf4162de7226b79.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 10:35:00",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_corrosion_39_jpg.rf.d6bb0a82b7a6155d58bb65e799de5ee9.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 13:16:07",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_rusted_car_34_jpg.rf.24644a5727fc884b2e2840464b4c8b67.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 13:16:36",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_rusted_objects_8_jpg.rf.2149652a33674cdd0b9f47f8b41552e0.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 13:16:37",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_rusted_objects_31_jpg.rf.7d1948f5c2100da942573df0e640ab97.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 13:16:38",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_rusted_ships_25_jpg.rf.59272d48b84988048733a8d23f33e131.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 13:16:40",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_20260515_144935.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:07:20",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_20260515_145030.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:08:38",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_20260515_144904.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:11:37",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_20260515_144923.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:15:50",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_20260515_144926.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:16:48",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_20260515_144733.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:18:06",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_20260515_145349.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:20:42",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_20260515_145348.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:21:03",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_20260515_145329.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:22:43",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_20260515_145030.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:22:59",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_20260515_145004.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:24:02",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_20260515_144935.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:24:54",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_20260515_144934.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:25:14",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_20260515_144926.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:26:02",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_20260515_144923.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:26:16",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_20260515_144909.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:26:32",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_20260515_144907.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:26:42",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_20260515_145349.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:30:28",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_20260515_145348.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:30:46",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_20260515_143028.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:32:28",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_foundation-cracks01_0_jpg.rf.3549890246508b9c8273f78ba3400428.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:32:29",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-451-_jpg.rf.fe5e1a37e4f3f1968ed71c81ff29673d.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-15 15:32:30",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_20260515_145348.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:33:45",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_camera_capture.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:34:14",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_camera_capture.jpg",
+        "severity": "LOW",
+        "time": "2026-05-15 15:35:45",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_camera_capture.jpg",
+        "severity": "LOW",
+        "time": "2026-05-15 15:36:27",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_20260515_144702.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:38:43",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_20260515_144642.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:38:49",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_20260515_144641.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:38:56",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_camera_capture.jpg",
+        "severity": "LOW",
+        "time": "2026-05-15 15:42:24",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_camera_capture.jpg",
+        "severity": "LOW",
+        "time": "2026-05-15 15:43:47",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_camera_capture.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:44:31",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_camera_capture.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:55:35",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_camera_capture.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:56:06",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_camera_capture.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:56:43",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_camera_capture.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 15:57:12",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_foundation-cracks01_0_jpg.rf.3549890246508b9c8273f78ba3400428.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 16:09:51",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_camera_capture.jpg",
+        "severity": "LOW",
+        "time": "2026-05-15 16:10:23",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_20260515_144641.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 16:16:36",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_foundation-cracks01_0_jpg.rf.3549890246508b9c8273f78ba3400428.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 16:16:37",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_crack-451-_jpg.rf.fe5e1a37e4f3f1968ed71c81ff29673d.jpg",
+        "severity": "HIGH",
+        "time": "2026-05-15 16:16:39",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_20260515_144642.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 16:17:32",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_20260515_144641.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 16:17:42",
+        "model": "custom"
+    },
+    {
+        "image": "http://127.0.0.1:8000/files/output_foundation-cracks01_0_jpg.rf.3549890246508b9c8273f78ba3400428.jpg",
+        "severity": "MEDIUM",
+        "time": "2026-05-15 16:17:43",
+        "model": "custom"
     }
 ]
